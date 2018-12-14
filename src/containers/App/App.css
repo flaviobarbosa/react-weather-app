@@ -1,0 +1,27 @@
+.Nav {
+    background-color: rgb(61, 61, 61);
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Title {
+    color: white;
+    font-size: 30px;
+    margin: auto auto auto 0px;
+}
+
+.Form {
+    margin: auto 10px;
+}
+
+.Card {
+    text-align: center;
+    height: auto;
+    width: 70%;
+    margin: 15px auto;
+}
+
+img {
+    margin: auto 10px;
+}
